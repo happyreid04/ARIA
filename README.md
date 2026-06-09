@@ -4,7 +4,7 @@ a research tool that communicates with several agents , written in python and ni
 
 # ARIA — Autonomous Research Intelligence Architecture
 
-> 🚧 **Active Development — Phase 6 of 10 complete**  
+> 🚧 **Active Development — Phase 8 of 10 complete**  
 > Built in public. Progress updated regularly.
 
 ARIA is a multi-agent research system built in Python and Nim, designed to autonomously search, collect, score, and analyse information through a coordinated network of specialized agents — all orchestrated by a fault-tolerant brain layer.
@@ -112,8 +112,7 @@ ARIA/
 
 ## Author
 
-**happyreid04** — AI agent infrastructure developer, 
-Building ARIA in public.
+**happyreid04**
 
 **Feel free to sponsor with stars ⭐⭐**
 
